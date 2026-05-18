@@ -1,11 +1,11 @@
 # Bootcamp - Entrega Intermediária
 
 ## Deploy Online
-https://bootcamp-entrega-intermediaria-kat3.vercel.app/
+https://bootcamp-entrega-intermediaria-dun.vercel.app/
 
 ## Repositório GitHub
-https://github.com/dinizzdavi/bootcamp-entrega-intermediaria
-
+https://github.com/joaofafa/bootcamp-entrega-intermediaria.git
+git add .
 ## API utilizada
 ViaCEP
 
@@ -22,3 +22,6 @@ ViaCEP
 - Integração com API pública ViaCEP
 - Teste de integração automatizado
 - Deploy online da aplicação
+
+## 🎯 Status do Projeto
+Projeto finalizado e em produção via Vercel.
