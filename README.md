@@ -4,8 +4,8 @@
 https://bootcamp-entrega-intermediaria-dun.vercel.app/
 
 ## Repositório GitHub
-https://github.com/joaofafa/bootcamp-entrega-intermediaria.git
-git add .
+https://github.com/rafaelamaia-jpg/bootcamp-entrega-intermediaria.git
+
 ## API utilizada
 ViaCEP
 
