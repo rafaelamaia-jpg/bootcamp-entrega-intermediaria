@@ -1,7 +1,7 @@
 # Bootcamp - Entrega Intermediária
 
 ## Deploy Online
-https://bootcamp-entrega-intermediaria-dun.vercel.app/
+https://bootcamp-entrega-intermediaria-ten.vercel.app/
 
 ## Repositório GitHub
 https://github.com/rafaelamaia-jpg/bootcamp-entrega-intermediaria.git
